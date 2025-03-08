@@ -32,23 +32,13 @@ src/
 
 ```
 
-### Для начала работы с проектом выполните следующие шаги:
+### 1️⃣ Создание нового проекта с GitHub
 
-1. Клонируйте репозиторий:
-
-   ```bash
-   git clone https://github.com/your-username/react-fsd-template.git
-   cd react-fsd-template
-   ```
-
-2. Установите зависимости:
-
-   ```bash
-   npm install
-   ```
-
-3. Запустите проект:
-
-   ```bash
-   npm start
-   ```
+    ```sh
+    git clone https://github.com/Yolanesso/react-app-architecture.git my-new-project
+    cd my-new-project
+    rm -rf .git
+    git init
+    npm install
+    npm run dev
+    ```
