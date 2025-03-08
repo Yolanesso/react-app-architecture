@@ -34,7 +34,7 @@ src/
 
 ### 1️⃣ Создание нового проекта с GitHub
 
-    ```sh
+    ```bash
     git clone https://github.com/Yolanesso/react-app-architecture.git my-new-project
     cd my-new-project
     rm -rf .git
